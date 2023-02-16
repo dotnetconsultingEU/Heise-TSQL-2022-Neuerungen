@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="SQL Server 2022">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items />
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="APPROX_PERCENTILE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>APPROX_PERCENTILE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Bit Operations.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Bit Operations.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DATE_BUCKET.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DATE_BUCKET.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DATETRUNC .sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DATETRUNC .sql</FullPath>
+        </FileNode>
+        <FileNode Name="FIRST_VALUE LAST_VALUE.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>FIRST_VALUE LAST_VALUE.sql</FullPath>
+        </FileNode>
+        <FileNode Name="GENERATE_SERIES.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>GENERATE_SERIES.sql</FullPath>
+        </FileNode>
+        <FileNode Name="GREATEST_LEAST.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>GREATEST_LEAST.sql</FullPath>
+        </FileNode>
+        <FileNode Name="IS [NOT] DISTINCT FROM.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>IS [NOT] DISTINCT FROM.sql</FullPath>
+        </FileNode>
+        <FileNode Name="JSON.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>JSON.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Ledger.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Ledger.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Ledger_Views.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Ledger_Views.sql</FullPath>
+        </FileNode>
+        <FileNode Name="STRING_SPLIT.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>STRING_SPLIT.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TRIM.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>TRIM.sql</FullPath>
+        </FileNode>
+        <FileNode Name="WINDOW Klausel.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>WINDOW Klausel.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
